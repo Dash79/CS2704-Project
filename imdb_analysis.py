@@ -2,8 +2,8 @@
 ======================================================
 IMDB Movie Ratings Analysis
 ======================================================
-Author: Dawit Ashenafi Getachew
-Student ID: 3752264
+Author: Dawit Ashenafi Getachew - 3752264
+        Chizaram Ikpo - 3760059
 Description: 
 This script loads the IMDB dataset, cleans it, and performs 
 basic exploratory data analysis (EDA) to gain insights 
